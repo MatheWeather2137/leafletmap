@@ -66,7 +66,7 @@ function setColorPrev(e){
 }
 
 console.log(tabwoje)
-
+//losowanie województw
 function randomWoje(){
 var index = Math.floor(Math.random()*tabwoje.length)
 var item = tabwoje[index]
